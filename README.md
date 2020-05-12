@@ -1,4 +1,4 @@
-# Flower task - horizontal task type
+# Flower task - vertical task type
 
 ## License
 This work is licensed under the [Creative Commons
